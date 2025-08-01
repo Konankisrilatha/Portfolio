@@ -1,3 +1,7 @@
+scripts: {
+  start: "react-scripts start"
+}
+
 var typed=new Typed(".text",{
     strings:["Frontend Developer","Java Developer","Machine Learning Developer",],
     typeSpeed:100,
